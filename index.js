@@ -6,3 +6,5 @@ git branch main
 git add index.js
 git commit -m "working file"
 git push origin main
+
+need to add another code from here how can i do that 
