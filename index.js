@@ -6,3 +6,5 @@ git branch main
 git add index.js
 git commit -m "working file"
 git push origin main
+
+to the other developer make change to this file
